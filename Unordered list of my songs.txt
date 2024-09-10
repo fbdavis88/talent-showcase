@@ -1,0 +1,29 @@
+<ul>
+      <li>I'm a soldier in the Army of the Lord</li>
+      <li>Lift every voice and sing</li>
+      <li>Glory glory halleluah</li>
+      <li>Michael row the boat ashore</li>
+      <li>Charlie brown</li>
+      <li>Old Rugged Cross</li>
+      <li>Amazing Grace</li>
+      <li>Kumbaya(Come by here)</li>
+    </ul>
+
+    <h2>Random playlist covers</h2>
+    <li>Ode to joy</li>
+    <li>I believe I can fly</li>
+    <li>Jam on the groove</li>
+    <li>Very superstitious</li>
+    <li>Isn't she lovely</li>
+    <li>Jamaica Farewell</li>
+    <li>Jam on the groove</li>
+    <li>Finger exercise</li>
+    <li>Auld Lang Syne</li>
+    <li>Lean on me</li>
+    <li>The entertainer</li>
+    <li>Boogie Woogie</li>
+    <li>Ode to joy</li>
+    <li>Charlie brown</li>
+    <li>Prune juice</li>
+    <li>Sentimental journey</li> 
+    <li>Ja da</li>
